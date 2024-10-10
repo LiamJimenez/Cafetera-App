@@ -2,7 +2,7 @@
 
 ## 1. Ejecutar el Proyecto
 Para ejecutar el proyecto ejecuta el siguiente comando:
-```bash
+
 python main.py
 
 ## 2. Ejecutar los casos de prueba
