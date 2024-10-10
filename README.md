@@ -1,8 +1,11 @@
-##Instrucciones para Ejecutar el Proyecto
+# Instrucciones para Ejecutar el Proyecto
 
-#Ejecutar el proyecto:
+## 1. Ejecutar el Proyecto
+Para ejecutar el proyecto ejecuta el siguiente comando:
+```bash
 python main.py
 
-#Ejecutar los casos de prueba:
-python -m unittest tests/test_cafetera.py
+## 2. Ejecutar los casos de prueba
+Para ejecutar los casos de prueba ejecuta el siguiente comando:
 
+python -m unittest tests/test_cafetera.py
